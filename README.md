@@ -1,6 +1,4 @@
 # ResumAI-Your-AI-Powered-Career-Navigator
-ResumAI is an intelligent AI Agent that matches your resume with ideal job roles, providing detailed explanations, improvement suggestions, likelihood scores, and adapted resumes. Revolutionize your job search and land your dream job faster.
-
 
 ## Overview
 
@@ -27,7 +25,6 @@ ResumAI utilizes a robust AI workflow, processing your resume and job preference
 
 ## Getting Started
 
-*(This section will require you to fill in the specifics of how to set up and run your project. Here are some placeholders and ideas.)*
 
 ### Prerequisites
 
@@ -38,10 +35,21 @@ ResumAI utilizes a robust AI workflow, processing your resume and job preference
 
 ### Installation
 
-```bash
 # Clone the repository
 git clone [https://github.com/YourUsername/ResumAI.git](https://github.com/YourUsername/ResumAI.git)
 cd ResumAI
 
 # Install dependencies (if you have a requirements.txt)
 pip install -r requirements.txt
+
+##Configuration
+Set up your database connection string and credentials.
+
+Configure API keys for AI models in your environment variables or a configuration file.
+
+##Running the Application
+
+# Example command to run your application
+python app.py
+Contributing
+We welcome contributions! Please feel free to fork the repository, open issues, or submit pull requests.
