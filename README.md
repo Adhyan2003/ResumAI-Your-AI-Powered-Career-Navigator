@@ -23,34 +23,3 @@ ResumAI utilizes a robust AI workflow, processing your resume and job preference
 5.  **AI Model Inference**: Advanced AI models (e.g., NVIDIA models) are used to perform cross-referencing, generate explanations, calculate likelihood scores, and adapt resumes based on the input and job data.
 6.  **Output Generation**: The results, including job matches, explanations, suggestions, scores, and adapted resumes, are presented to the user.
 
-## Getting Started
-
-
-### Prerequisites
-
-* Python 3.x
-* (List any specific libraries or frameworks, e.g., `langchain-astradb`, `langflow` if applicable)
-* Access to a job database (e.g., AstraDB instance if you are hosting one).
-* API keys for any external AI models (e.g., NVIDIA API if you are using their models).
-
-### Installation
-
-# Clone the repository
-git clone [https://github.com/YourUsername/ResumAI.git](https://github.com/YourUsername/ResumAI.git)
-cd ResumAI
-
-# Install dependencies (if you have a requirements.txt)
-pip install -r requirements.txt
-
-##Configuration
-Set up your database connection string and credentials.
-
-Configure API keys for AI models in your environment variables or a configuration file.
-
-###Running the Application
-
-python app.py
-Contributing
-
-
-We welcome contributions! Please feel free to fork the repository, open issues, or submit pull requests.
