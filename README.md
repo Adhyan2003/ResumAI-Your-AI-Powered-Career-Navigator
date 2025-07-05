@@ -47,9 +47,10 @@ Set up your database connection string and credentials.
 
 Configure API keys for AI models in your environment variables or a configuration file.
 
-##Running the Application
+###Running the Application
 
-# Example command to run your application
 python app.py
 Contributing
+
+
 We welcome contributions! Please feel free to fork the repository, open issues, or submit pull requests.
